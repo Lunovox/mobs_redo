@@ -2,41 +2,39 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Translateror: Lunovox Heavenfinder <https://libreplanet.org/wiki/User:Lunovox>, 2018.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: mobs\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-02 16:48+0200\n"
-"PO-Revision-Date: 2017-07-02 14:55+0200\n"
-"Last-Translator: Wuzzy <almikes@aol.com>\n"
-"Language-Team: \n"
+"PO-Revision-Date: 2018-05-11 14:27-0300\n"
+"Last-Translator: Luno Translateror <lunovox@openmailbox.org>\n"
+"Language-Team: Português <>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.2\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-
-#: api.lua
-msgid "** Peaceful Mode Active - No Monsters Will Spawn"
-msgstr ""
+"X-Generator: Gtranslator 2.91.6\n"
+"Plural-Forms: nplurals=4; plural= (n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != "
+"11) ? 2 : 3;\n"
 
 #: api.lua
 msgid "Mob has been protected!"
-msgstr ""
+msgstr "Este animal foi protegida!"
 
 #: api.lua
 msgid "@1 (Tamed)"
-msgstr ""
+msgstr "@1 (DOMESTICADO)"
 
 #: api.lua
 msgid "Not tamed!"
-msgstr "Indomesticado!"
+msgstr "Ainda não domesticado!"
 
 #: api.lua
 msgid "@1 is owner!"
-msgstr "Dono @1!"
+msgstr "Pertence a @1!"
 
 #: api.lua
 msgid "Missed!"
@@ -44,7 +42,11 @@ msgstr "Faltou!"
 
 #: api.lua
 msgid "Already protected!"
-msgstr ""
+msgstr "Já FOI protegido!"
+
+#: api.lua
+msgid "Protected!"
+msgstr "Protegido!"
 
 #: api.lua
 msgid "@1 at full health (@2)"
@@ -85,7 +87,7 @@ msgstr "Laço (clique-direito no animal para por no inventario)"
 
 #: crafts.lua
 msgid "Net (right-click animal to put in inventory)"
-msgstr "Net (clique-direito no animal para por no inventario)"
+msgstr "Rede (clique-direito no animal para por no inventario)"
 
 #: crafts.lua
 msgid "Steel Shears (right-click to shear)"
@@ -93,19 +95,15 @@ msgstr "Tesoura de Aço (clique-direito para tosquiar)"
 
 #: crafts.lua
 msgid "Mob Protection Rune"
-msgstr ""
+msgstr "Runa de Protetora"
 
 #: crafts.lua
 msgid "Saddle"
-msgstr ""
-
-#: crafts.lua
-msgid "Mob Fence"
-msgstr ""
+msgstr "Sela de Couro"
 
 #: spawner.lua
 msgid "Mob Spawner"
-msgstr "Spawnador de Mob"
+msgstr "Desovador de Mob"
 
 #: spawner.lua
 msgid "Mob MinLight MaxLight Amount PlayerDist"
@@ -121,7 +119,7 @@ msgstr "Spawnador Ativo (@1)"
 
 #: spawner.lua
 msgid "Mob Spawner settings failed!"
-msgstr "Configuraçao de Spawnador do Mob falhou!"
+msgstr "Configuração de Spawnador do Mob falhou!"
 
 #: spawner.lua
 #, fuzzy
