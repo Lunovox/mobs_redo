@@ -2,15 +2,14 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# Translateror: Lunovox Heavenfinder <https://libreplanet.org/wiki/User:Lunovox>, 2018.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: mobs\n"
+"Project-Id-Version: Portuguese 1.1.0 for mobs_redo.\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-02 16:48+0200\n"
 "PO-Revision-Date: 2018-05-11 14:27-0300\n"
-"Last-Translator: Luno Translateror <lunovox@openmailbox.org>\n"
+"Last-Translator: Lunovox Heavenfinder <https://libreplanet.org/wiki/User:Lunovox>\n"
 "Language-Team: Português <>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
